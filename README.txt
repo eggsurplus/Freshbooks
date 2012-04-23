@@ -1,4 +1,4 @@
-For another connector example with OAuth:
+For another connector example but with OAuth support:
 https://github.com/eggsurplus/DropboxPidgin
 
 
